@@ -1,3 +1,3 @@
-module.exports = {
-    entry: "./app/assets/scripts/App.js"
-}
+import "../styles/styles.css"
+
+alert("poop smells!")
